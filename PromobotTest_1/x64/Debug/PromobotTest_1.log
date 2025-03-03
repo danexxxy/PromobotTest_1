@@ -1,0 +1,3 @@
+﻿  PromobotTest_1.cpp
+C:\Users\LutsaDO\source\repos\PromobotTest_1\PromobotTest_1\PromobotTest_1.cpp(29,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  PromobotTest_1.vcxproj -> C:\Users\LutsaDO\source\repos\PromobotTest_1\x64\Debug\PromobotTest_1.exe
